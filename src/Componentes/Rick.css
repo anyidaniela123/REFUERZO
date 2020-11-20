@@ -1,0 +1,38 @@
+.divicion{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+    padding:  15px;  
+    background-color: rgb(3, 3, 3);
+  }
+
+  .con1{
+    display: flex;
+    background-color: rgb(179, 7, 247);
+    width: 20%;
+    min-width: 500px;
+    height: 240px;
+    border-radius: 10px;
+    border: 1px solid rgb(0, 0, 0);
+   
+  }
+
+  .marcontainer{
+    max-width: 150px;
+    max-height: 180px;
+ }
+
+ .fondo{
+    background-color: rgb(2, 2, 2)
+  
+}
+
+.be5{
+  width: 30px;
+  height: 5px;
+}
+
+h1{
+  color: aliceblue;
+}
