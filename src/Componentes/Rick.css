@@ -28,9 +28,10 @@
   
 }
 
-.be5{
-  width: 30px;
-  height: 5px;
+.po{
+max-width: 100000px;
+max-height: 50000000px;
+height: 50000PX;
 }
 
 h1{
